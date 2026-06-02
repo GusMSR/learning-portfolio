@@ -2,8 +2,9 @@
 notes/private/
 
 # Obsidian cache/workspace
-.obsidian/workspace.json
-.obsidian/cache/
+notes/.obsidian
+notes/.obsidian/workspace.json
+notes.obsidian/cache/
 
 # OS junk
 Thumbs.db
