@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/cordPolares/1080p60/partial_movie_files/cordPolares/3977891868_252912940_223132457.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/cordPolares/1080p60/partial_movie_files/cordPolares/2852726489_1754310298_3448921299.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/cordPolares/1080p60/partial_movie_files/cordPolares/2852726489_3677585831_1118042373.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/cordPolares/1080p60/partial_movie_files/cordPolares/2852726489_1754310298_112046705.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/cordPolares/1080p60/partial_movie_files/cordPolares/2852726489_3181947718_1169233026.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/cordPolares/1080p60/partial_movie_files/cordPolares/2852726489_1271321093_3913356620.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/cordPolares/1080p60/partial_movie_files/cordPolares/2852726489_1754310298_845450547.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/cordPolares/1080p60/partial_movie_files/cordPolares/2852726489_930864629_1132865751.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/cordPolares/1080p60/partial_movie_files/cordPolares/2852726489_1754310298_2941654490.mp4'

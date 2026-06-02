@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/3977891868_3551363497_223132457.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_1112863833_1644715648.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_900647583_2071569409.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_1839128356_3592706086.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_2575284168_2810072270.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_1839128356_3105806741.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_1839482818_170295803.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_1839128356_1602261317.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_1292864555_3331536523.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_1839128356_725239453.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_959850518_2906890651.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/test/1080p60/partial_movie_files/InversoAditivo/2852726489_2408024828_4009875243.mp4'

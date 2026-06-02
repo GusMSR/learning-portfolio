@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/3977891868_2904431753_223132457.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/2852726489_34694219_2234190661.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/2852726489_3201849554_1233420175.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/2852726489_4287368799_3391446702.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/2852726489_3201849554_3345912373.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/2852726489_3281374995_4128432013.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/2852726489_3201849554_2794838459.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/2852726489_3863646247_2101524776.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/2852726489_3201849554_3365234752.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/2852726489_1886469034_989209081.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervalosAnidados/1080p60/partial_movie_files/IntervalosAnidados/2852726489_2408024828_2192054066.mp4'

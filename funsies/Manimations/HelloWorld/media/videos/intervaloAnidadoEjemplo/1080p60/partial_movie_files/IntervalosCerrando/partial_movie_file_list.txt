@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/3977891868_4171522075_223132457.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/2852726489_3263648820_247967727.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/2852726489_3201849554_2118777429.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/2852726489_2608204304_4209349610.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/2852726489_3201849554_18893668.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/2852726489_4000515426_462843780.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/2852726489_3201849554_1542235433.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/2852726489_972943265_1077219429.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/2852726489_3201849554_261153591.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/2852726489_2119906824_2973055677.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/intervaloAnidadoEjemplo/1080p60/partial_movie_files/IntervalosCerrando/2852726489_2408024828_323407435.mp4'

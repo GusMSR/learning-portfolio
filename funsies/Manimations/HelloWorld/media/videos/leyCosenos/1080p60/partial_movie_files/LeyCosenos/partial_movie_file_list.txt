@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/leyCosenos/1080p60/partial_movie_files/LeyCosenos/3977891868_936579619_223132457.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/leyCosenos/1080p60/partial_movie_files/LeyCosenos/2852726489_1754310298_1814765460.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/leyCosenos/1080p60/partial_movie_files/LeyCosenos/2852726489_1706914789_3292870774.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/leyCosenos/1080p60/partial_movie_files/LeyCosenos/2852726489_1754310298_2109125645.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/leyCosenos/1080p60/partial_movie_files/LeyCosenos/2852726489_3087031802_1765664323.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/leyCosenos/1080p60/partial_movie_files/LeyCosenos/2852726489_635423747_904775120.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/leyCosenos/1080p60/partial_movie_files/LeyCosenos/2852726489_1754310298_4100836233.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/leyCosenos/1080p60/partial_movie_files/LeyCosenos/2852726489_970951056_3417200603.mp4'
+file 'file:C:/Users/Gusta/Manimations/HelloWorld/media/videos/leyCosenos/1080p60/partial_movie_files/LeyCosenos/2852726489_1754310298_3280507374.mp4'
