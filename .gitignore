@@ -1,0 +1,10 @@
+# Private notes
+notes/private/
+
+# Obsidian cache/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+
+# OS junk
+Thumbs.db
+.DS_Store
